@@ -56,3 +56,16 @@
 
 # for key, value in dict.items():
 #     print(f'Key: {key}, Value: {value}', end = ' ')
+
+
+# numbers = {1: 'one', 2: 'two'}
+# for el in numbers:
+#     print(el)
+
+# for key, value in numbers.items():
+#     print(key, value)
+#
+# if 'one' in numbers.values():
+#     print('oe')
+# else:
+#     print('no')
